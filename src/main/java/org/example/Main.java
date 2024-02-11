@@ -8,6 +8,6 @@ import org.example.kyu6.MakeTheDeadfishSwim;
 public class Main {
    public static void main(String[] args) {
      var b = new Diamond();
-       System.out.println(b.print(111));
+       System.out.println(b.print(9));
     }
 }
