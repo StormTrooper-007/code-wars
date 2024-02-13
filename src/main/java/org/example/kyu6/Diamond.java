@@ -1,6 +1,6 @@
 package org.example.kyu6;
 
-import java.util.stream.Stream;
+
 
 public class Diamond {
     public String print(int n) {
